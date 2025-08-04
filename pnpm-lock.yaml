@@ -30,8 +30,8 @@ importers:
         specifier: ^1.5.0
         version: 1.5.0
       marked:
-        specifier: ^16.0.0
-        version: 16.0.0
+        specifier: ^16.1.2
+        version: 16.1.2
       nuqs:
         specifier: ^2.4.3
         version: 2.4.3(react@19.1.0)
@@ -1304,8 +1304,8 @@ packages:
   magic-string@0.30.17:
     resolution: {integrity: sha512-sNPKHvyjVf7gyjwS4xGTaW/mCnF8wnjtifKBEhxfZ7E/S8tQ0rssrwGNn6q8JH/ohItJfSQp9mBtQYuTlH5QnA==}
 
-  marked@16.0.0:
-    resolution: {integrity: sha512-MUKMXDjsD/eptB7GPzxo4xcnLS6oo7/RHimUMHEDRhUooPwmN9BEpMl7AEOJv3bmso169wHI2wUF9VQgL7zfmA==}
+  marked@16.1.2:
+    resolution: {integrity: sha512-rNQt5EvRinalby7zJZu/mB+BvaAY2oz3wCuCjt1RDrWNpS1Pdf9xqMOeC9Hm5adBdcV/3XZPJpG58eT+WBc0XQ==}
     engines: {node: '>= 20'}
     hasBin: true
 
@@ -2256,7 +2256,7 @@ snapshots:
 
   '@types/marked@6.0.0':
     dependencies:
-      marked: 16.0.0
+      marked: 16.1.2
 
   '@types/node@24.0.14':
     dependencies:
@@ -2764,7 +2764,7 @@ snapshots:
     dependencies:
       '@jridgewell/sourcemap-codec': 1.5.4
 
-  marked@16.0.0: {}
+  marked@16.1.2: {}
 
   merge2@1.4.1: {}
 
